@@ -1,2 +1,6 @@
 # mess-video-maker
-How to build a mass video? Look at this.
+
+用法：（编译完成的程序） 原视频 输出视频 颗粒度
+
+注意：颗粒度单位为字节，数值越小视频越坏。
+ 
